@@ -5,7 +5,7 @@ const   consoleLog = document.querySelector('#consoleLog'),
         getPromptInfo = document.querySelector('#prompt');
 
 consoleLog.addEventListener('click', () => {
-    alert('Метод console.log() позволяет вывыести сообщение в консоль');S
+    alert('Метод console.log() позволяет вывыести сообщение в консоль');
 });
 
 getAlertInfo.addEventListener('click', () => {

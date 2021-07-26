@@ -1,0 +1,22 @@
+body   {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.back_menu  {
+    color: #45aa67;
+    text-decoration: none;
+    transition: 0.2s;
+}
+.back_menu:hover    {
+    color: #45dd67;
+    transition: 0.2s;
+}
+
+p   {
+    font-weight: 700;
+}
+
+code    {
+    font-style: italic;
+}
