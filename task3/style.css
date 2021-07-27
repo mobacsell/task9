@@ -1,4 +1,9 @@
-#trafficLight {
+body   {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+#trafficLight1, #trafficLight2, #trafficLight3 {
     width: 100px;
     height: 100px;
     border-radius: 50%;

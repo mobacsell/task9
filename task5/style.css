@@ -14,41 +14,42 @@ body   {
 }
 
 label   {
-    color: #45aa67;
+    color: #444;
 }
 
 #text_input     {
     outline: none;
     width: 300px;
     height: 20px;
-    font-size: 16px;
-    border: 1px solid #45aa67;
-    color: #45aa67;
+    font-size: 14px;
+    border: 1px solid #444;
+    color: #444;
 }
 #text_input::placeholder    {
-    color: #45aa67;
+    color: #444;
 }
 
 hr  {
-    border: 1px solid #45aa67;
+    border: 1px solid #444;
 }
 
 p   {
     font-style: italic;
+    color: #45aa67;
 }
 
 #btn    {
-    border: 1px solid #45aa67;
+    border: 1px solid #444;
     height: 25px;
     outline: none;
     width: 360px;
     color: #fff;
-    background-color: #45aa67;
+    background-color: #444;
     transition: 0.2s;
     cursor: pointer;
 }
 #btn:hover  {
-    color: #45aa67;
+    color: #444;
     background-color: #fff;
     transition: 0.2s;
 }
